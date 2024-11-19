@@ -1,0 +1,85 @@
+{
+    "status": "ok",
+    "totalResults": 33,
+    "articles": [
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Phil Stewart, Idrees Ali",
+            "title": "Hegseth, advocate for firing 'woke' military leaders, picked for defense secretary - Reuters",
+            "description": "Hegseth is an Army National Guard veteran and according to his website served in Afghanistan, Iraq and Guantanamo Bay, Cuba.",
+            "url": "https://www.reuters.com/world/us/trump-says-he-will-nominate-fox-news-host-pete-hegseth-defense-secretary-2024-11-13/",
+            "urlToImage": "https://www.reuters.com/resizer/v2/3YSALZ26O5KOVFXVEL7MXNQNUM.jpg?auth=a921d9a505dd0907d04a78b5c858ad10baef6db6910fdd5bacea62a8187ec162&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2024-11-13T16:34:06Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Lucia Mutikani",
+            "title": "Higher shelter costs lift US consumer prices in October - Reuters",
+            "description": "U.S. consumer prices increased as expected in October amid higher costs for shelter such as rents, and progress towards low inflation has slowed since mid-year, which could result in fewer interest rate cuts from the Federal Reserve next year.",
+            "url": "https://www.reuters.com/markets/us/us-consumer-prices-rise-expected-october-2024-11-13/",
+            "urlToImage": "https://www.reuters.com/resizer/v2/LNBP5HQIOZK5VFPY5YSMYIILJY.jpg?auth=ff7fc23a52eb2201fe84647711ea58e81073aa6c53ebce44f71691fd5ca2343d&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2024-11-13T16:29:04Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Barron's"
+            },
+            "author": "Barron's",
+            "title": "Nvidia Stock Slips. Why Missing Earnings Expectations Wouldn’t Be a Disaster. - Barron's",
+            "description": null,
+            "url": "https://www.barrons.com/articles/nvidia-stock-price-ai-chips-softbank-e6211bab",
+            "urlToImage": null,
+            "publishedAt": "2024-11-13T16:17:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Tom Balmforth",
+            "title": "Senior Russian naval officer killed in car bombing claimed by Kyiv - Reuters",
+            "description": "A bomb planted under a car blew up and killed a senior Russian naval officer in occupied Crimea's city of Sevastopol on Wednesday, in what a Kyiv security source said was a Ukrainian hit on one of its highest-ranking targets to date.",
+            "url": "https://www.reuters.com/world/europe/senior-russian-naval-officer-killed-car-bomb-hit-claimed-by-kyiv-2024-11-13/",
+            "urlToImage": "https://www.reuters.com/resizer/v2/466BJJQ7PVGY5O53NZ3KL65MHM.png?auth=b9c3bf166c40a6778eb5672993fde7c30a15f48329026674eff92afd8da1d0ca&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2024-11-13T15:21:32Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "AL.com"
+            },
+            "author": "Carol Robinson | crobinson@al.com",
+            "title": "Man arrested in Tuskegee shooting admits firing gun with Glock switch, denies shooting anyone, records state - AL.com",
+            "description": "Jacquez Myrick said he bought the gun online and that it came with several machine gun conversion devices, according to court records.",
+            "url": "https://www.al.com/news/2024/11/man-arrested-in-tuskegee-shooting-admits-firing-gun-with-glock-switch-denies-shooting-anyone-records-state.html",
+            "urlToImage": "https://www.al.com/resizer/v2/S57Q47XWTVDT7IPVH4HJFD5YGM.jpg?auth=6149e80c86d96fb836e75e45af73ca4a956ef7362447dff55342bd46aab159d9&width=1280&quality=90",
+            "publishedAt": "2024-11-13T15:21:00Z",
+            "content": "A Montgomery man arrested following the mass shooting at Tuskegee University initially denied firing his weapon, but later told federal investigators he did fire his gun but did not shoot anyone, according to records. [+4345 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Kathryn Watson, Caroline Linton",
+            "title": "Biden and Trump say transition will be 'smooth' during Oval Office meeting - CBS News",
+            "description": "Elon Musk traveled with President-elect Donald Trump to Washington.",
+            "url": "https://www.cbsnews.com/news/trump-biden-meeting-white-house-2024-election/",
+            "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2024/11/13/9ad596f3-1a52-41fb-a89e-5736ade5731f/thumbnail/1200x630/ba7351a8f0841d018f55d1cb6c90fc87/2024-11-13t161830z-1160767826-rc2g4bavmz37-rtrmadp-3-usa-trump-biden.jpg?v=f619a2fc2fe5c36254958031a1f767d9",
+            "publishedAt": "2024-11-13T15:10:00Z",
+            "content": "President-elect Donald Trump and President Biden are meeting at the White House on Wednesday as part of the transition process, a formality that Trump didn't extend to Mr. Biden in 2020. [+3156 chars]"
+        }
+       
+    ]
+}
